@@ -1,4 +1,4 @@
-# Community Detection in Large-Scale Complex Networks via Structural Entropy Game (CoDeSEG)
+# Comprehensive, Efficient Large-Scale Community Detection via Structural Entropy Game
 ## Quick start
 We have published CoDeSEG on PyPI. Below are the installation and usage examples:
 ```bash
