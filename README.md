@@ -211,6 +211,7 @@ python DCDBFE.py
 
 # Citation
 If you find this repository helpful, please consider citing the following paper.
+
 [1] Leskovec Jure. 2014. SNAP Datasets: Stanford large network dataset collection. Retrieved December 2021 from [http://snap.stanford.edu/data](http://snap.stanford.edu/data) (2014).
 
 [2] Andrew J McMinn, Yashar Moshfeghi, and Joemon M Jose. 2013. Building a large-scale corpus for evaluating event detection on twitter. In Proceedings ofthe 22nd ACM international conference on Information & Knowledge Management. ACM, 409–418.
